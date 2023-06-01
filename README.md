@@ -13,7 +13,7 @@ técnicas  e  certos padrões.
 
 + Ter maior domínio sobre html e css.
 + Foco principal Display flex.
-+ Iniciar a praticar do padrão BEM
++ Iniciar a praticar do padrão BEM (não foi bem sucedido)
 
 
 #### Observações:
